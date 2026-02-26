@@ -1,0 +1,3 @@
+The input image of Pangaea was downloaded from Wikipedia, which sourced it from:
+
+Scotese, Christopher R.; Vérard, Christian; Burgener, Landon; Elling, Reece P.; Kocsis, Ádám T. - "Phanerozoic-scope supplementary material to "The Cretaceous World: Plate Tectonics, Paleogeography, and Paleoclimate (doi:10.1144/sp544-2024-28)" from the PALEOMAP project". doi:10.5281/zenodo.10659112 https://zenodo.org/records/10659112
